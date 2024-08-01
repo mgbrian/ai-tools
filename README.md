@@ -8,6 +8,7 @@
 - [transport](https://github.com/mgbrian/transport/)
 
 ## Apps
+- [vector](https://github.com/mgbrian/vector/)
 - [dev](https://github.com/mgbrian/dev/)
 - [transcriber](https://github.com/mgbrian/transcriber/)
 - [catsitter](https://github.com/mgbrian/catsitter/)
