@@ -1,8 +1,8 @@
 # AI Tools
 
-This should be a blog. In mid 2023 I started building a [digital assistant](https://docs.google.com/document/d/1x52awYN3-fEHk6RjW9Ly-ygbaGhkSxwNGIoS8oXNdS8/). Things got real, real quick. Ensuing wisdom broke what was 1 collosal project into a myriad smaller ones.
+This should be a blog. In mid 2023 I started building a [digital assistant](https://docs.google.com/document/d/1x52awYN3-fEHk6RjW9Ly-ygbaGhkSxwNGIoS8oXNdS8/). Things got real, real quick. 
 
-The list below is broken into 2:
+Ensuing wisdom broke what was 1 collosal project into a myriad smaller ones, broken into 2 categories:
 - Tools - A collection of APIs (an OS in aggregage) that make it possible to build apps requiring digital intelligence.
 - Apps - Real-use-case applications that could be built using the said "tools" ("could be" because the apps here were used to develop the underlying "tools" that would've been useful in developing them).
 
