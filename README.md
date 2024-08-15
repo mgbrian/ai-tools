@@ -38,7 +38,7 @@ Programmatically browse the web like a human (visually, with a real browser).
 ### transport 
 [[code]](https://github.com/mgbrian/transport/)
 
-Move data between system components (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication (sockets, client/server code, etc.) between different components as well as a system for message encoding. The communication pipeline and unified declarative encoding makes it easy for any part of the system to trigger behaviour in any other part of the system (seamless "function calling" between systems regardless of programming language or machine location).
+Move data between system components (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication (sockets, client/server code, etc.) between different components as well as a system for message encoding. The communication pipeline and unified declarative encoding make it easy for any part of the system to trigger behaviour in any other part of the system (seamless "function calling" between systems regardless of programming language or machine location).
 
 ### Google APIs 
 [[code]](https://github.com/mgbrian/google_apis/)
