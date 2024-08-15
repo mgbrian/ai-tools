@@ -1,5 +1,11 @@
 # AI Tools
 
+This should be a blog. In mid 2023 I started building a digital assistant. Things got real, real quick. Ensuing wisdom broke what was 1 collosal project into a myriad smaller ones.
+
+The list below is broken into 2:
+- Tools - A collection of APIs (an OS in aggregage) that make it possible to build apps needing requiring intelligence.
+- Apps - Real-use-case applications that could be built using the said "tools" ("could be" because the apps here were used to develope the underlying "tools").
+
 ## Tools
 The following are generic tools without standalone utility, but meant to provide APIs usable in more tailored use-cases.
 
@@ -28,6 +34,10 @@ Programmatically browse the web like a human (visually, with a real browser).
 ### transport [[>>]](https://github.com/mgbrian/transport/)
 
 Move data between system components (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication (sockets, client/server code, etc.) between different components as well as a system for message encoding. The communication pipeline and unified declarative encoding makes it easy for any part of the system to trigger behaviour in any other part of the system (seamless "function calling" between systems regardless of programming language or machine location).
+
+### Google APIs [[>>]](https://github.com/mgbrian/google_apis/)
+
+Interact with Google Apps (GMail, Photos, Sheets, Calendar, etc.).
 
 ## Apps
 Below are applications built (or that could have been built) on top of the above APIs. These apps were built at different stages of the above tools' development, with the express purpose of helping develop a component thereof (in addition to their other use-case):
