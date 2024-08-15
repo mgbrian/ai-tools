@@ -27,7 +27,7 @@ Programmatically browse the web like a human (visually, with a real browser).
 
 ### transport [[>>]](https://github.com/mgbrian/transport/)
 
-Move data between system components (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication (sockets, client/server code, etc.) between different components as well as a system for message encoding.
+Move data between system components (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication (sockets, client/server code, etc.) between different components as well as a system for message encoding. The communication pipeline and unified declarative encoding makes it easy for any part of the system to trigger behaviour in any other part of the system (seamless "function calling" between systems regardless of programming language or machine location).
 
 ## Apps
 Below are applications built (or that could have been built) on top of the above APIs. These apps were built at different stages of the above tools' development, with the express purpose of helping develop a component thereof (in addition to their other use-case):
@@ -40,9 +40,16 @@ Below are applications built (or that could have been built) on top of the above
 - vector will help develop memory (`brain`).
 
 ### vector [[>>]](https://github.com/mgbrian/vector/)
+
+(Upcoming)
+
+Meant to test memory represetation and retrieval techniques.
+
 ### dev [[>>]](https://github.com/mgbrian/dev/)
 
+(Upcoming)
 
+Dev is (meant to be) a hands-free programmer that writes, tests and executes code to/in the filesystem based on external instructions.
 
 ### transcriber [[>>]](https://github.com/mgbrian/transcriber/)
 
