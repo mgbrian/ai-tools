@@ -41,7 +41,14 @@ Below are applications built (or that could have been built) on top of the above
 
 ### vector [[>>]](https://github.com/mgbrian/vector/)
 ### dev [[>>]](https://github.com/mgbrian/dev/)
+
+
+
 ### transcriber [[>>]](https://github.com/mgbrian/transcriber/)
+
+Needs to be renamed to Scribe. Scribe enables voice-typing in jargon-heavy contexts. Scribe provides an editable text input, into which the user can voice-write fully hands-free, while still remaining fully editable in case the user needs to fine-tune certain spellings. Scribe learns spellings and builds a lexicon of jargon that is used going forward. The intended use case for this was a project I was working on requiring hours of live transcription -- I work in a field where half the phrases do not make sense to anybody outside the field and a lot of the key vocabulary is written in PascalCase.
+
+ * Handwriting recognition coming, utilising a lot of the same infrastructure: think (voice -> transcription -> [other infra]) / (handwriting -> digitization -> [same other infra]).
 
 ### catsitter [[>>]](https://github.com/mgbrian/catsitter/)
 
