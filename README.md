@@ -48,7 +48,7 @@ Interact with Google Apps (GMail, Photos, Sheets, Calendar, etc.).
 ## Apps
 Below are applications built (or that could have been built) on top of the above APIs. These apps were built at different stages of the above tools' development, with the express purpose of helping develop a component thereof (in addition to their other use-case):
 
-- Munchking and Minstrel helped develop the LLM interfaces, VAD and transcription (`brain`).
+- Munchking and Minstrel helped develop the LLM interfaces, VAD and live transcription (`brain`).
 - eagle-eye -- object detection and camera capture (`brain`).
 - catsitter -- live audio/video input/processing alongside simultaneous user interaction (`brain`), all of `phone`, and async server-side processing (in Python).
 - tutor - the hard lesson not to try and do this all in one project.
@@ -60,7 +60,7 @@ Below are applications built (or that could have been built) on top of the above
 
 (Upcoming)
 
-Meant to test memory represetation and retrieval techniques.
+Meant to test memory representation and retrieval techniques.
 
 ### dev 
 [[code]](https://github.com/mgbrian/dev/)
@@ -87,7 +87,7 @@ A digital nanny using a combination of live vision and back and forth audio comm
 A surveillance system designed to optimize disk & camera usage and reduce footage review time. The system only records when it detects specified objects/types of activity. It also reduces the wear-and-tear and high disk usage involved in situations that need high fidelity capture by enabling usage of a combination of a cheap always-on camera, and more expensive/higher quality only-triggered-when-necessary camera.
 
 ### Minstrel 
-[[cpde]](https://github.com/mgbrian/minstrel/)
+[[code]](https://github.com/mgbrian/minstrel/)
 
 A work-buddy that'll shower you with compliments as you work.
 
