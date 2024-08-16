@@ -69,10 +69,10 @@ Meant to test memory representation and retrieval techniques.
 
 Dev is (meant to be) a hands-free programmer that writes, tests and executes code to/in the filesystem based on external instructions.
 
-### transcriber 
+### scribe
 [[code]](https://github.com/mgbrian/transcriber/)
 
-Needs to be renamed to Scribe. Scribe enables voice-typing in jargon-heavy contexts. Scribe provides an editable text input, into which the user can voice-write fully hands-free, while still remaining fully editable in case the user needs to fine-tune certain spellings. Scribe learns spellings and builds a lexicon of jargon that is used going forward. The intended use case for this was a project requiring hours of live transcription -- in a field filled with unintelligible jargon and a lot of key vocabulary written in PascalCase.
+Voice typing that performs well in jargon-heavy contexts. Scribe provides hands-free voice typing into an editable text input allowing the user needs to fine-tune spellings as needed. It learns spellings and builds a lexicon of jargon that is used going forward. The intended use case for this was a project requiring hours of live transcription -- in a field filled with unintelligible jargon and a lot of key vocabulary written in PascalCase.
 
  * Handwriting recognition coming, utilising a lot of the same infrastructure: think (voice -> transcription -> [other infra]) / (handwriting -> digitization -> [same other infra]).
 
