@@ -52,7 +52,7 @@ Below are applications built (or that could have been built) on top of the above
 - eagle-eye -- object detection and camera capture (`brain`).
 - catsitter -- live audio/video input/processing alongside simultaneous user interaction (`brain`), all of `phone`, and async server-side processing (in Python).
 - tutor - the hard lesson not to try and do this all in one project.
-- dev will help develop generic "function-calling" (that works across LLM APIs) and test `files`.
+- dev will help develop generic "function-calling" (that works across LLM APIs) and test `transport` and `files`.
 - vector will help develop memory (`brain`).
 
 ### vector 
