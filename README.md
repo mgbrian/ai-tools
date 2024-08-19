@@ -16,7 +16,7 @@ The peripherals, while designed to be used by an AI assistant, have no explicit 
 ### brain 
 [[code]](https://github.com/mgbrian/brain/)
 
-A suite of cognitive features: sensory (audio and visual) and higher cognition (language processing, reasoning, memory, etc.).
+A suite of cognitive features: sensory (audio and visual), higher cognition (language processing, reasoning, etc.) and memory.
 
 This is designed to mimic a human brain's functions, focusing on how it interacts with the environment i.e. input, processing and output.
 
