@@ -72,7 +72,7 @@ Dev is (meant to be) a hands-free programmer that writes, tests and executes cod
 ### Scribe
 [[code]](https://github.com/mgbrian/transcriber/)
 
-Voice typing that performs well in jargon-heavy contexts. Scribe provides hands-free voice typing into an editable text input allowing the user needs to fine-tune spellings as needed. It learns spellings and builds a lexicon of jargon that is used going forward. The intended use case for this was a project requiring hours of live transcription -- in a field filled with unintelligible jargon and a lot of key vocabulary written in PascalCase.
+Voice typing that performs well in jargon-heavy contexts. Scribe provides hands-free voice typing into an editable text input allowing the user to fine-tune spellings as needed. It learns spellings and builds a lexicon of jargon that is used going forward. The intended use case for this was a project requiring hours of live transcription -- in a field filled with unintelligible jargon and a lot of key vocabulary written in PascalCase.
 
  * Handwriting recognition coming, utilising a lot of the same infrastructure: think (voice -> transcription -> [other infra]) / (handwriting -> digitization -> [same other infra]).
 
