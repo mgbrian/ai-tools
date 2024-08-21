@@ -65,9 +65,7 @@ Meant to test memory representation and retrieval techniques.
 ### dev 
 [[code]](https://github.com/mgbrian/dev/)
 
-(Upcoming)
-
-Dev is (meant to be) a hands-free programmer that writes, tests and executes code to/in the filesystem based on external instructions.
+A hands-free programmer that writes, tests and executes code to/in the filesystem based on external instructions.
 
 ### Scribe
 [[code]](https://github.com/mgbrian/transcriber/)
