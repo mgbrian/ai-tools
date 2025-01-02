@@ -38,7 +38,7 @@ Programmatically browse the web like a human (visually, with a real browser).
 ### messages 
 [[code]](https://github.com/mgbrian/messages/)
 
-Move data between nodes (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication between different components as well as a convention for message encoding.
+A framework for data transmission between nodes (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication between different components as well as a convention for message encoding.
 
 ### storage
 [[code]](https://github.com/mgbrian/storage/)
