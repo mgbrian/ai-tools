@@ -40,6 +40,13 @@ Programmatically browse the web like a human (visually, with a real browser).
 
 Move data between nodes (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication between different components as well as a convention for message encoding.
 
+### storage
+[[code]](https://github.com/mgbrian/storage/)
+
+*WIP.*
+
+Networked file/object storage.
+
 ### Google APIs 
 [[code]](https://github.com/mgbrian/google_apis/)
 
