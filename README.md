@@ -20,7 +20,12 @@ A suite of cognitive features: sensory (audio and visual), higher cognition (lan
 
 This is designed to mimic a human brain's functions, focusing on how it interacts with the environment i.e. input, processing and output.
 
-### files 
+### pc 
+[[code]](https://github.com/mgbrian/pc/)
+
+Graphically operate a computer (screen, mouse, keyboard, etc.).
+
+### files
 [[code]](https://github.com/mgbrian/files/)
 
 Interact with the (Unix+) filesystem.
