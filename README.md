@@ -20,6 +20,11 @@ A suite of cognitive features: sensory (audio and visual), higher cognition (lan
 
 This is designed to mimic a human brain's functions, focusing on how it interacts with the environment i.e. input, processing and output.
 
+### messages 
+[[code]](https://github.com/mgbrian/messages/)
+
+A framework for data transmission between nodes (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication between different components as well as a convention for message encoding.
+
 ### PC 
 [[code]](https://github.com/mgbrian/pc/)
 
@@ -30,20 +35,19 @@ Graphically operate a computer (screen, mouse, keyboard, etc.).
 
 Interact with the (Unix+) filesystem.
 
-### phone 
-[[code]](https://github.com/mgbrian/phone/)
-
-Send SMS and make/receive live phone calls.
-
 ### browser 
 [[code]](https://github.com/mgbrian/browser/)
 
+*WIP.*
+
 Programmatically browse the web like a human (visually, with a real browser).
 
-### messages 
-[[code]](https://github.com/mgbrian/messages/)
+### phone 
+[[code]](https://github.com/mgbrian/phone/)
 
-A framework for data transmission between nodes (if `brain` is analogous to a human brain, this is the nervous system). Provides both the infrastructure for communication between different components as well as a convention for message encoding.
+*WIP.*
+
+Send SMS and make/receive live phone calls.
 
 ### storage
 [[code]](https://github.com/mgbrian/storage/)
