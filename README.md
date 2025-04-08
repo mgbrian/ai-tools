@@ -1,6 +1,6 @@
 # AI Tools
 
-This should be a blog. In mid 2023 I started building a [digital assistant](https://docs.google.com/document/d/1x52awYN3-fEHk6RjW9Ly-ygbaGhkSxwNGIoS8oXNdS8/). Things got real, real quick. 
+This should be a blog. In mid 2023 I started building a [digital assistant](https://docs.google.com/document/d/1x52awYN3-fEHk6RjW9Ly-ygbaGhkSxwNGIoS8oXNdS8/). Things became unmanageable very fast. 
 
 Ensuing wisdom broke what was 1 collosal project into a myriad smaller ones, broken into 2 categories:
 - Tools - A collection of APIs (an OS in aggregage) that should make it possible to build apps requiring digital intelligence.
@@ -14,6 +14,8 @@ In aggregate, they can be thought of as a sort of operating system, with `brain`
 The peripherals, while designed to be used by an AI assistant, have no explicit connection to one and can be used in any other programmatic system.
 
 ### brain 
+[Design Doc](https://docs.google.com/document/d/1BfW4zRtpOsERNuRw0U-eu4s0nVJWJ02OrFT04zSS-IM/edit?usp=sharing)
+
 [[code]](https://github.com/mgbrian/brain/)
 
 A suite of cognitive features: sensory (audio and visual), higher cognition (language processing, reasoning, etc.) and memory.
