@@ -7,7 +7,7 @@ Ensuing wisdom broke what was 1 collosal project into a myriad smaller ones, bro
 - Apps - Real-use-case applications that could be built using the said "tools" ("could be" because the apps here were used to develop the underlying "tools" that would've been useful in developing them).
 
 ## Tools
-The following are generic tools without standalone utility, but meant to provide APIs usable in tailored use-cases (see Apps below for examples).
+The following are generic tools without standalone utility, but meant to provide APIs and frameworks usable in tailored use-cases (see Apps below for examples).
 
 In aggregate, they can be thought of as a sort of operating system, with `brain` being the kernel and the rest being peripheral components.
 
